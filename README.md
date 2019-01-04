@@ -30,13 +30,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project Structure
 ```
-├── config
+├── config (Webpack)
 ├── dist *.gitignore*
 ├── node_modules *.gitignore*
-├── config (Webpack
 ├── public
 ├── src
-|   ├── asset
 │   ├── async
 │   ├── components
 │   ├── mixins
@@ -47,8 +45,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 │   ├── util
 |   ├── views
 │   ├── App.vue
-│   ├── event.js
 │   └── main.js
+├── static
 ├── .env
 ├── .gitignore
 ├── babel.config.js

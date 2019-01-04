@@ -7,7 +7,7 @@
             <v-card class="elevation-1 pa-3">
               <v-card-text>
                 <div class="layout column align-center">
-                  <img src="@/assets/logos/logo-lampp-it-transparent.png" alt="Lampp-it Admin" width="200" height="200">
+                  <img src="@/../static/logos/logo-lampp-it-transparent.png" alt="Lampp-it Admin" width="200" height="200">
                   <h1 class="flex my-4 primary--text">Lampp-it Template</h1>
                 </div>                
                 <v-form>
