@@ -37,6 +37,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ├── src
 │   ├── async
 │   ├── components
+│   ├── locales
 │   ├── mixins
 │   ├── plugins
 │   ├── router
