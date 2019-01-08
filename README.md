@@ -35,10 +35,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ├── node_modules *.gitignore*
 ├── public
 ├── src
-│   ├── async
 │   ├── components
 │   ├── locales
 │   ├── mixins
+│   |   └── async
 │   ├── plugins
 │   ├── router
 │   ├── store
